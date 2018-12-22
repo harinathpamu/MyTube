@@ -8,16 +8,15 @@ A React App which allows User to Search and Play Youtube Videos and example for 
 
 [https://nodejs.org/en/](https://nodejs.org/en/)
 
-After cloning this repository, install necessary dependencies: ``` npm install ```
-
-To Run Type :  ``` npm start  ```
-
-=======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+After cloning this repository, install necessary dependencies: 
+
+### `npm install` 
 
 ### `npm start`
 
